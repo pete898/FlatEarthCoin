@@ -1,0 +1,2 @@
+# FlatEarthCoin
+FlatEarthCoin
